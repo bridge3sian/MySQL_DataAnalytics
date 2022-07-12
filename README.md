@@ -23,8 +23,3 @@ The links to the course sections are below
   - [Stored Routines and Variables](https://cloudy-kiwi-f5a.notion.site/Stored-Routines-3d788c1690a947d687c47f668abc3659)
 - ## Advanced SQL Topics
   - [MySQL Variables, Triggers, Indexes and CASE Statement](https://cloudy-kiwi-f5a.notion.site/Advanced-SQL-Topics-65da3a3cd86649d6a951284a02b87757)
-- ## Combining SQL and Tableau
-  - [Task 1](https://cloudy-kiwi-f5a.notion.site/Task-1-257586d1abae46689ed6c3608ce2fe19)
-  - [Task 2](https://cloudy-kiwi-f5a.notion.site/Task-2-7275fda0a6ad47d89bc0893d0529df55)
-  - [Task 3](https://cloudy-kiwi-f5a.notion.site/Task-3-3013d53bf5d94852b3023934822405ad)
-  - [Task 4](https://cloudy-kiwi-f5a.notion.site/Task-4-02e766cfe2434076875eee5dc8c5ea4b)
