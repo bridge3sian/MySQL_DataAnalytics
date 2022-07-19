@@ -23,3 +23,9 @@ The links to the course sections are below
   - [Stored Routines and Variables](https://cloudy-kiwi-f5a.notion.site/Stored-Routines-3d788c1690a947d687c47f668abc3659)
 - ## Advanced SQL Topics
   - [MySQL Variables, Triggers, Indexes and CASE Statement](https://cloudy-kiwi-f5a.notion.site/Advanced-SQL-Topics-65da3a3cd86649d6a951284a02b87757)
+  - [Traffic Analysis and Optimization](https://www.notion.so/Traffic-Analysis-and-Optimization-215ac32ca9b94dcd985be45b68b1ba80)
+  - [Analyzing Website Performance](https://www.notion.so/Analyzing-Website-Performance-7163135da9504a4c9404ef009fd29477)
+  - [Analysis for Channel Portfolio Management](https://www.notion.so/Analysis-for-Channel-Portfolio-Management-7489aa49fe9347bdb76a70a929732f7c)
+  - [Analyzing Business Patterns and Seasonality](https://www.notion.so/Analyzing-Business-Patterns-and-Seasonality-d8fa5623557c481b81c72d4408f8d47a)
+  - [Product Analysis](https://www.notion.so/Product-Analysis-1c482c2e76d0453092a0a00430e6840d)
+  - [User Analysis](https://www.notion.so/User-Analysis-486631c075db43a1bf0c42fbf21a4a88)
