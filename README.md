@@ -1,4 +1,4 @@
-# SQL_Camp
+# MySQL_DataAnalytics
 
 MySQL for Data Analytics and Business Intelligence Notes in Notion &amp; LC
 
